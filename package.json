@@ -1,6 +1,6 @@
 {
   "name": "printbin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A network printer for printing ot http://printb.in",
   "bin": "index.js",
   "dependencies": {
@@ -30,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/watson/printbin/issues"
   },
-  "homepage": "https://github.com/watson/printbin#readme"
+  "homepage": "https://github.com/watson/printbin#readme",
+  "coordinates": [
+    30.5574394,
+    -81.4456392
+  ]
 }
