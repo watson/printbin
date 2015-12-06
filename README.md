@@ -21,6 +21,10 @@ Just start the printbin proxy, by running this command:
 printbin
 ```
 
+Then just do the following and add the `printbin` printer:
+
+![ipp-printer](https://raw.githubusercontent.com/watson/printbin/master/ipp-printer.gif)
+
 ## License
 
 MIT
