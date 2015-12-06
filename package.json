@@ -1,0 +1,34 @@
+{
+  "name": "printbin",
+  "version": "0.0.0",
+  "description": "A network printer for printing ot http://printb.in",
+  "bin": "index.js",
+  "dependencies": {
+    "zeroconf": "^0.1.3"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/printbin.git"
+  },
+  "keywords": [
+    "ipp",
+    "printer",
+    "print",
+    "printing",
+    "network",
+    "bonjour",
+    "zeroconf"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/printbin/issues"
+  },
+  "homepage": "https://github.com/watson/printbin#readme"
+}
