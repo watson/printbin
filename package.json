@@ -4,7 +4,7 @@
   "description": "A network printer for printing ot http://printb.in",
   "bin": "index.js",
   "dependencies": {
-    "zeroconf": "^0.1.3"
+    "bonjour": "^2.0.0"
   },
   "devDependencies": {
     "standard": "^5.4.1"
